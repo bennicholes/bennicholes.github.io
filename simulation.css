@@ -1,0 +1,36 @@
+h1
+{
+	width: 100%;
+	text-align: center;
+}
+
+h4
+{
+	width: 100%;
+	text-align: center;
+}
+
+fieldset
+{
+    position: absolute;
+
+    display: inline-block;
+
+    border: solid 1px black;
+}
+
+tr
+{
+    text-align: center;
+}
+
+p
+{
+	width: 50%;
+}
+
+.sim-chooser
+{
+    width: 100%;
+    text-align: center; 
+}
