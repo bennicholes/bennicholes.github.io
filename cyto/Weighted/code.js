@@ -143,7 +143,7 @@ $(function() { // on dom ready
 
                 table.push(it);
             }
-
+            printResults(table);
             return table;
         }
 

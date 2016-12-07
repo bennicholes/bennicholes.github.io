@@ -48,3 +48,5 @@ jspm_packages
 
 # js copies
 .js~
+
+.DS_Store
