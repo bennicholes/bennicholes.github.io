@@ -1,3 +1,6 @@
+function reset() {
+    location.reload();
+}
 
 function printResults(arr){
 
