@@ -57,6 +57,7 @@ layout: default
 ## School and Certifications
 
 * University of Nevada, Reno - 17'
+	* B.S Computer Science
 	* Minor in Business Administration
 	* Minor in Mathematics
 * Currently studying for AWS Associate for Solutions Architect, Developer, and SysOps
