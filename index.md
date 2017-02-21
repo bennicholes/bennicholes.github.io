@@ -65,18 +65,18 @@ layout: default
 ## Other Interests
 * Film
 	* Kubrick, Villeneuve, Anderson, Tarkovsky, Cohen Bros.
-	* Current Favorite - [Leviathan](https://letterboxd.com/film/leviathan-2014/)
+	* [Leviathan](https://letterboxd.com/bennicholes/)
 * TV 
 	* Futurama, Rick and Morty, GoT, Sopranos 
 * Literature
 	* Camus, Dostoevsky, Wilde, Vonnegut, Salinger, Shapiro
-	* Current Favorite - [The Plague](https://www.amazon.com/Plague-Albert-Camus/dp/0679720219/ref=sr_1_1?ie=UTF8&qid=1483688861&sr=8-1)
+
 * MLB - <span style="color: blue">L</span><span style="color: orange">G</span><span style="color: blue">M</span>
 * NHL - <span style="color: blue">L</span><span style="color: orange">G</span><span style="color: blue">I</span>
 * EPL - <span style="color: navy">C</span><span style="color: white">O</span><span style="color: navy">Y</span><span style="color: white">S</span>
 * Cooking & Eating
 * Traveling
-	* Last Country Visited - Brazil
+
 
 
 ![Ben Nicholes](../assets/ben.jpg){: height="230px" width="180px"}
