@@ -65,7 +65,7 @@ layout: default
 ## Other Interests
 * Film
 	* Kubrick, Villeneuve, Anderson, Tarkovsky, Cohen Bros.
-	* [Leviathan](https://letterboxd.com/bennicholes/)
+	* [Letterboxd](https://letterboxd.com/bennicholes/)
 * TV 
 	* Futurama, Rick and Morty, GoT, Sopranos 
 * Literature
