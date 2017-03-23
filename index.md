@@ -69,15 +69,13 @@ layout: default
 * TV 
 	* Futurama, Rick and Morty, GoT, Sopranos 
 * Literature
-	* Camus, Dostoevsky, Wilde, Vonnegut, Salinger, Shapiro
+	* Camus, Dostoevsky, Wilde, Vonnegut
 
-* MLB - <span style="color: blue">L</span><span style="color: orange">G</span><span style="color: blue">M</span>
-* NHL - <span style="color: blue">L</span><span style="color: orange">G</span><span style="color: blue">I</span>
-* EPL - <span style="color: navy">C</span><span style="color: white">O</span><span style="color: navy">Y</span><span style="color: white">S</span>
+* MLB - Mets
+* NHL - Islanders
+* Soccer - Tottenham, Barcelona, Galo
 * Cooking & Eating
 * Traveling
 
 
-
-![Ben Nicholes](../assets/ben.jpg){: height="230px" width="180px"}
 
