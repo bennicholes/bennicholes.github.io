@@ -25,7 +25,6 @@ layout: default
 * Located in New York, NY
 * Previously in Reno, NV
 * DevOps at [bombora](http://bombora.com) 
-* Working on a new food platform
 
 ## Favorite Technologies
 * AWS
