@@ -22,7 +22,8 @@ layout: default
 
 ## Currently...
 
-* Located in Reno, NV  
+* Located in New York, NY
+* Previously in Reno, NV
 * DevOps at [bombora](http://bombora.com) 
 * Working on a new food platform
 
@@ -40,9 +41,9 @@ layout: default
 ## Career Experience
 
 * **bombora** - the largest aggregator of B2B intent data  
-	* DevOps Intern  
+	* DevOps Engineer
 	* _2016 - Present_  
-	* Develop and Monitor Infrastructure and Delivery Solutions in Python, Chef, AWS, and GCP  
+	* Develop and Monitor Infrastructure and create Delivery Solutions in Python, Chef, AWS, and GCP  
 
 * **eatrank** - rate and share dishes at restaurants
 	* Co-Founder
@@ -60,17 +61,12 @@ layout: default
 	* B.S Computer Science
 	* Minor in Business Administration
 	* Minor in Mathematics
-* Currently studying for AWS Associate for Solutions Architect, Developer, and SysOps
+* Currently studying for AWS Associate for Solutions Architect
 
 ## Other Interests
 * Film
-	* Kubrick, Villeneuve, Anderson, Tarkovsky, Cohen Bros.
-	* [Letterboxd](https://letterboxd.com/bennicholes/)
 * TV 
-	* Futurama, Rick and Morty, GoT, Sopranos 
 * Literature
-	* Camus, Dostoevsky, Wilde, Vonnegut
-
 * MLB - Mets
 * NHL - Islanders
 * Soccer - Tottenham, Barcelona, Galo
