@@ -1,5 +1,5 @@
 # Website
 To develop locally
 
-npm install -g jekyll
-jekyll serve
+* npm install -g jekyll
+* jekyll serve

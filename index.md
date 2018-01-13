@@ -24,33 +24,34 @@ layout: default
 
 * Located in New York, NY
 * Previously in Reno, NV
-* DevOps at [bombora](http://bombora.com) 
+* Product at [bombora](http://bombora.com)
 
 ## Favorite Technologies
 * AWS
 * Chef
-* Python, Django
-* Node.js
+* Python
 * CentOS
 * Jenkins
-* Github
 * Datadog
 * Sketch
 
 ## Career Experience
 
-* **bombora** - the largest aggregator of B2B intent data  
-	* DevOps Engineer
-	* _2016 - Present_  
-	* Develop and Monitor Infrastructure and create Delivery Solutions in Python, Chef, AWS, and GCP  
+* **bombora** - the largest aggregator of B2B intent data
+    * Product Analyst
+        * _2018 - Present_
+
+    * DevOps Engineer
+      * _2016 - 2018_
+      * Develop and Monitor Infrastructure and create Delivery Solutions in Python, Chef, AWS, and GCP
 
 * **eatrank** - rate and share dishes at restaurants
 	* Co-Founder
-	* _2016 - Present_
+	* _2016 - 2017_
 
 * **ustyme** -  share books and games in a real-time video call
-	* QA/Devops Intern
-	* _2015 - 2016_  
+	* QA/Devops Engineer
+	* _2015 - 2016_
 	* Develop end-to-end tests in QUnit
 	* Develop and Monitor Infrastructure in AWS
 
@@ -60,17 +61,12 @@ layout: default
 	* B.S Computer Science
 	* Minor in Business Administration
 	* Minor in Mathematics
-* Currently studying for AWS Associate for Solutions Architect
+* Studying for AWS Associate for Solutions Architect
 
 ## Other Interests
-* Film
-* TV 
 * Literature
-* MLB - Mets
-* NHL - Islanders
-* Soccer - Tottenham, Barcelona, Galo
-* Cooking & Eating
+* Film/TV
+* Blockchain
+* Mets, Islanders, Knicks, Tottenham, FC Barcelona, Galo
+* Food
 * Traveling
-
-
-
