@@ -38,7 +38,7 @@ layout: default
 ## Career Experience
 
 * **bombora** - the largest aggregator of B2B intent data
-    * Product Analyst
+    * Technical Product Analyst
         * _2018 - Present_
 
     * DevOps Engineer
@@ -66,7 +66,6 @@ layout: default
 ## Other Interests
 * Literature
 * Film/TV
-* Blockchain
-* Mets, Islanders, Knicks, Tottenham, FC Barcelona, Galo
+* Mets, Islanders, Knicks, Tottenham, Galo
 * Food
 * Traveling
