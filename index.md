@@ -33,7 +33,6 @@ layout: default
 * CentOS
 * Jenkins
 * Datadog
-* Sketch
 
 ## Career Experience
 
