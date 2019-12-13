@@ -37,8 +37,11 @@ layout: default
 ## Career Experience
 
 * **bombora** - the largest aggregator of B2B intent data
+    * Technical Product Manager
+        * _2019 - Present_
+    
     * Technical Product Analyst
-        * _2018 - Present_
+        * _2018 - 2019_
 
     * DevOps Engineer
       * _2016 - 2018_
