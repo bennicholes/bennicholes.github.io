@@ -63,11 +63,10 @@ layout: default
 	* B.S Computer Science
 	* Minor in Business Administration
 	* Minor in Mathematics
-* Studying for AWS Associate for Solutions Architect
 
 ## Other Interests
 * Literature
 * Film/TV
-* Mets, Islanders, Knicks, Tottenham, Galo
+* The Mets
 * Food
 * Traveling
