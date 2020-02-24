@@ -31,11 +31,11 @@ layout: default
 * **bombora** - the largest aggregator of B2B intent data
     * Technical Product Manager - _2018 - Present_
     * Lead development team for API offerings across Bombora’s core data set
-    * Lead development team for Bombora’s Domain Append tool, reducing turn around time by 90% with an 80% accuracy
-    for domain assignment
-    * Lead development team for integrating Bombora Surge data into Marketo, HubSpot, and Oracle Eloqua Marketing Automation platforms supporting millions of object syncs weekly
+    * Lead development team for Bombora’s Domain Append tool, **reducing turn around time by 90% with an 80% accuracy
+    for domain assignment**
+    * Lead development team for integrating Bombora Surge data into Marketo, HubSpot, and Oracle Eloqua Marketing Automation platforms **supporting millions of object syncs weekly**
     * Lead development team for integrating Bombora Surge data into LinkedIn Matched Audiences and Facebook Custom
-Audiences, reducing on average over 50% reduction in CPC and CPM and increasing on average over 40% click-thru rates
+Audiences, **reducing on average over 50% reduction in CPC and CPM and increasing on average over 40% click-thru rates**
 
     * DevOps Engineer - _2016 - 2018_
     * Produce Jenkins Builds and Workflows for .NET, Java, and Docker/Kubernetes applications
