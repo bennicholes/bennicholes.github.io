@@ -9,9 +9,6 @@ layout: default
 <a href="https://www.linkedin.com/in/bennicholes" title="LinkedIn" style="padding-right: 40px">
 <img alt="LinkedIn" height="40px" width="40px" src="../assets/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/bennicholes" title="Instagram" style="padding-right: 40px">
-<img alt="Instagram" height="40px" width="40px" src="../assets/instagram.svg"/>
-</a>
 <a href="http://www.last.fm/user/bennicholes" title="LastFM" style="padding-right: 40px">
 <img alt="LastFM" height="40px" width="40px" src="../assets/lastfm.svg"/>
 </a>
