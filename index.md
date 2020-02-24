@@ -46,7 +46,7 @@ Audiences, reducing on average over 50% reduction in CPC and CPM and increasing 
 	* Co-Founder
 	* _2016 - 2017_
 	* ![EatRank Homepage](../assets/eatank-homepage.png)
-	* [More Photos](../assets/eatank-images.png)
+	* [More Photos](../assets/eatank-images.pdf)
 
 * **ustyme** -  share books and games in a real-time video call
 	* QA/Devops Engineer
