@@ -29,8 +29,7 @@ layout: default
 ## Career Experience
 
 * **bombora** - the largest aggregator of B2B intent data
-    * Technical Product Manager
-    * _2018 - Present_
+    * Technical Product Manager - _2018 - Present_
     * Lead development team for API offerings across Bombora’s core data set
     * Lead development team for Bombora’s Domain Append tool, reducing turn around time by 90% with an 80% accuracy
     for domain assignment
@@ -38,15 +37,16 @@ layout: default
     * Lead development team for integrating Bombora Surge data into LinkedIn Matched Audiences and Facebook Custom
 Audiences, reducing on average over 50% reduction in CPC and CPM and increasing on average over 40% click-thru rates
 
-    * DevOps Engineer
-    * _2016 - 2018_
+    * DevOps Engineer - _2016 - 2018_
+    * Produce Jenkins Builds and Workflows for .NET, Java, and Docker/Kubernetes applications
+◦   * Manage and monitor Development and Production environments in AWS, Google Cloud, and Microsoft Windows Server
+with Datadog and PRTG
     * Develop and Monitor Infrastructure and create Delivery Solutions in Python, Chef, AWS, and GCP
 
 * **eatrank** - rate and share dishes at restaurants
-	* Co-Founder
-	* _2016 - 2017_
+	* Co-Founder - _2016 - 2017_ 
 	* ![EatRank Homepage](../assets/eatank-homepage.png)
-	* [More Photos](../assets/eatank-images.pdf)
+	* [More Photos](http://bennicholes.github.io/assets/eatrank-images.pdf)
 
 * **ustyme** -  share books and games in a real-time video call
 	* QA/Devops Engineer
