@@ -26,7 +26,7 @@ layout: default
 ## Career Experience
 
 * **better.com** - buy or refinance your home with Better Mortgage for a seamless online mortgage experience
-    * Product Manager - _2020 - 2021_
+    * Product Manager - _2020 - Present_
     * Champion developer experience for 250+ engineers through creating tools that make their lives easier
     * Grew Kafka usage from 0 -> 30+ organization wide topics powering critical business functions through millions of monthly events
 
@@ -72,8 +72,9 @@ with Datadog and PRTG
 	* Minor in Mathematics
 
 ## Other Interests
-* Literature
+* Blockchain
+* Finance/Investing
 * Film/TV
-* The Mets
+* The Mets (I love to hate them)
 * Food
-* Traveling
+* Languages
