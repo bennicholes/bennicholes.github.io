@@ -25,8 +25,13 @@ layout: default
 
 ## Career Experience
 
+* **better.com** - buy or refinance your home with Better Mortgage for a seamless online mortgage experience
+    * Product Manager - _2020 - 2021_
+    * Champion developer experience for 250+ engineers through creating tools that make their lives easier
+    * Grew Kafka usage from 0 -> 30+ organization wide topics powering critical business functions through millions of monthly events
+
 * **bombora** - the largest aggregator of B2B intent data
-    * Technical Product Manager - _2018 - Present_
+    * Technical Product Manager - _2018 - 2020_
     * Lead development team for API offerings across Bombora’s core data set
     * Lead development team for Bombora’s Domain Append tool, **reducing turn around time by 90% with an 80% accuracy
     for domain assignment**
